@@ -20,13 +20,6 @@ User user = new User.Builder()
 * Here, the inner static class `Builder` builds the `User` object.
 * You chain methods (`setFirstName`, `setLastName`, etc.) for clarity and readability.
 * Once you're done setting values, calling `build()` creates the actual object.
-
----
-
-### ✅ Output Behavior
-
-No output is printed because your class doesn’t have `toString()` or print logic, but the created object has all values populated via the builder.
-
 ---
 
 ### ❓ Common Interview Questions & Sample Answers
