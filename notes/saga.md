@@ -1,7 +1,3 @@
-Sure! Let's go deep into the **Saga Pattern**, especially within the context of **microservices**, and explore both **choreography** and **orchestration** techniques. Then, we’ll cover **how to implement these in Java** with practical libraries and tools.
-
----
-
 ## 🧩 What is the Saga Pattern?
 
 The **Saga Pattern** is a **microservices-based transaction management pattern** used to maintain **data consistency** across **distributed services**.
